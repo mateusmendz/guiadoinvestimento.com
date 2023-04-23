@@ -21,16 +21,28 @@
         border-radius: 10px;
       }
 
-      @media (max-width: 575.98px) { 
+      @media (max-width: 991.98px) { 
 
         h1 {
           font-size: 1.5rem;
         }
         h3 {
-
+          font-size: 1.2rem;
         }
 
       }
+
+      @media (max-width: 1199.98px) { 
+
+        h1 {
+          font-size: 2rem;
+        }
+        h3 {
+          font-size: 1.5rem;
+        }
+
+      }
+
 
     </style>
   </head>
@@ -74,6 +86,7 @@
               <div class="form-group">
                 <label for="exampleFormControlSelect1">Quanto você tem para investir?</label>
                 <select class="form-control form-control-lg" name="field[2]" id="field[2]" required>
+                  <option disabled selected value>Selecione aqui</option>
                   <option>Até R$ 50.000</option>
                   <option>De R$ 50.000 a R$ 100.000</option>
                   <option>De R$ 100.000 a R$ 300.000</option>
