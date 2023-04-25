@@ -497,12 +497,12 @@
                 </div>
                 <div class="form-group">
                   <label for="exampleFormControlSelect1">Quanto você tem para investir?</label>
-                  <select class="form-control form-control-lg" name="field[2]" id="field[2]" required>
+                  <select class="form-control form-control-lg" name="field[8]" id="field[8]" required>
                     <option disabled selected value>Selecione aqui</option>
-                    <option>Até R$ 50.000</option>
-                    <option>De R$ 50.000 a R$ 100.000</option>
+                    <option>Até R$ 100.000</option>
                     <option>De R$ 100.000 a R$ 300.000</option>
-                    <option>Mais de R$ 300.000</option>
+                    <option>De R$ 300.000 a R$ 1 milhão</option>
+                    <option>Mais de R$ 1 milhão</option>
                   </select>
                 </div>
                 <div class="_form_element _x92275336 _full_width " >
@@ -574,7 +574,7 @@ window.onload = function () {
   
 }
 
-window.cfields = {"2":"potencial_de_investimento_select","3":"utmsource","6":"utmcampaign","4":"utmmedium","5":"utmcontent","7":"utmterm"};
+window.cfields = {"8":"select_20","3":"utmsource","6":"utmcampaign","4":"utmmedium","5":"utmcontent","7":"utmterm"};
 window._show_thank_you = function(id, message, trackcmp_url, email) {
   var form = document.getElementById('_form_' + id + '_'), thank_you = form.querySelector('._form-thank-you');
   form.querySelector('._form-content').style.display = 'none';
@@ -624,9 +624,9 @@ window._load_script = function(url, callback, isSubmit) {
   script.onerror = function() {
     if (isSubmit) {
       if (script.src.length > 10000) {
-        _show_error("1", "Translation error: 'forms:subission-error:long-querystring' not found.");
+        _show_error("3", "Desculpe, seu envio falhou. Deixe suas respostas mais curtas e tente novamente.");
       } else {
-        _show_error("1", "Translation error: 'forms:subission-error:generic' not found.");
+        _show_error("3", "Desculpe, seu envio falhou. Tente novamente.");
       }
     }
   }
@@ -658,7 +658,7 @@ window._load_script = function(url, callback, isSubmit) {
     }
   }
   var _removed = false;
-  var form_to_submit = document.getElementById('_form_1_');
+  var form_to_submit = document.getElementById('_form_3_');
   var allInputs = form_to_submit.querySelectorAll('input, select, textarea'), tooltips = [], submitted = false;
 
   var getUrlParam = function(name) {
@@ -966,8 +966,8 @@ window._load_script = function(url, callback, isSubmit) {
     e.preventDefault();
     if (validate_form()) {
       // use this trick to get the submit button & disable it using plain javascript
-      document.querySelector('#_form_1_submit').disabled = true;
-            var serialized = _form_serialize(document.getElementById('_form_1_')).replace(/%0A/g, '\\n');
+      document.querySelector('#_form_3_submit').disabled = true;
+            var serialized = _form_serialize(document.getElementById('_form_3_')).replace(/%0A/g, '\\n');
       var err = form_to_submit.querySelector('._form_error');
       err ? err.parentNode.removeChild(err) : false;
       _load_script('https://wopeads72856.activehosted.com/proc.php?' + serialized + '&jsonp=true', null, true);
