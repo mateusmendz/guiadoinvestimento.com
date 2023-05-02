@@ -17,10 +17,10 @@
         <div class="col-lg-8">
           <div class="formulario">
             <div id="select">
-              <button type="button" class="btn btn-success btn-block btn-lg mb-4" onclick="form1()">Menos de R$ 100.000</button>
-              <button type="button" class="btn btn-success btn-block btn-lg mb-4" onclick="form2()">De R$ 100.000 a R$ 300.000</button>
-              <button type="button" class="btn btn-success btn-block btn-lg mb-4" onclick="form3()">De R$ 300.000 a R$ 1 milhão</button>
-              <button type="button" class="btn btn-success btn-block btn-lg" onclick="form4()">Mais de R$ 1 milhão</button>
+              <button type="button" class="btn btn-success btn-block btn-lg mb-4" onclick="form_menos('Menos de R$ 100.000')">Menos de R$ 100.000</button>
+              <button type="button" class="btn btn-success btn-block btn-lg mb-4" onclick="form_mais('De R$ 100.000 a R$ 300.000')">De R$ 100.000 a R$ 300.000</button>
+              <button type="button" class="btn btn-success btn-block btn-lg mb-4" onclick="form_mais('De R$ 300.000 a R$ 1 milhão')">De R$ 300.000 a R$ 1 milhão</button>
+              <button type="button" class="btn btn-success btn-block btn-lg" onclick="form_mais('Mais de R$ 1 milhão')">Mais de R$ 1 milhão</button>
             </div>
             <form class="d-none" method="POST" action="https://wopeads72856.activehosted.com/proc.php" id="_form_">
               <input type="hidden" name="u" value="5" id="v1" />
@@ -53,8 +53,8 @@
 
     <script type="text/javascript">
       
-      function form1() {
-        document.getElementById("field[9]").value = "Menos de R$ 100.000";
+      function form_menos(valor) {
+        document.getElementById("field[9]").value = valor;
 
         document.getElementById("v1").value = "5";
         document.getElementById("v2").value = "5";
@@ -66,7 +66,7 @@
 
       }
 
-      function form2() {
+      function form_mais() {
 
         document.getElementById("field[9]").value = "De R$ 100.000 a R$ 300.000";
 
