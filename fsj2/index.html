@@ -500,8 +500,8 @@
                   <input type="text" id="email" name="email" class="form-control form-control-lg"placeholder="Digite seu email" required>
                 </div>
                 <div class="form-group">
-                  <label for="formGroupExampleInput2">Telefone</label>
-                  <input type="text" id="phone" name="phone" class="form-control form-control-lg" placeholder="Digite seu telefone" required>
+                  <label for="phone">Telefone</label>
+                  <input type="text" id="phone" name="phone" class="form-control form-control-lg" placeholder="Digite seu telefone" onkeydown="keypressPhone(event)" required>
                 </div>
                 <input class="d-none" type="text" id="field[9]" name="field[9]" required readonly/>
                 <input type="hidden" name="field[3]" value="" />
@@ -585,9 +585,45 @@
       document.querySelector('input[name="field[7]"]').value = utm['utm_term']
       
       
-      
-      
       }
+
+      const name = document.querySelector('#fullname')
+const phone = document.querySelector('#phone')
+const mail = document.querySelector('#email')
+
+const maskPhone = () => {
+  setTimeout(() => {
+    let value = phone.value.replace(/\D/g, '')
+    let result
+
+    if (value.length > 10) {
+      value = value.match(/(\d{0,2})(\d{0,1})(\d{0,4})(\d{0,4})/)
+
+      result = `(${value[1]}) ${value[2]}${value[3]}-${value[4]}`
+    } else {
+      value = value.match(/(\d{0,2})(\d{0,4})(\d{0,4})/)
+
+      if (!value[2]) result = value[1]
+      if (value[2]) result = `(${value[1]}) ${value[2]}`
+      if (value[3]) result = `${result}-${value[3]}`
+    }
+
+    phone.value = result
+  })
+}
+
+const keypressPhone = event => {
+  const pattern = '[0-9]+'
+  let value = phone.value.replace(/\D/g, '')
+
+  if (value.length > 10 && event.key !== 'Backspace') {
+    event.preventDefault()
+  } else if (event.key.match(pattern) || event.key === 'Backspace') {
+    maskPhone()
+  } else {
+    event.preventDefault()
+  }
+}
       
       window.cfields = {"9":"potencial_select","3":"utmsource","4":"utmmedium","5":"utmcontent","6":"utmcampaign","7":"utmterm"};
       window._show_thank_you = function(id, message, trackcmp_url, email) {
@@ -990,6 +1026,7 @@
       return false;
       };
       addEvent(form_to_submit, 'submit', form_submit);
+
       })();
       
     </script>
