@@ -490,6 +490,7 @@
                 <input type="hidden" name="act" value="sub" />
                 <input type="hidden" name="v" value="2" />
                 <input type="hidden" name="or" value="fe4e8705a8bf64b4434d324b1dd898aa" id="v3" />
+                <button type="button" class="btn btn-outline-light mb-4" onclick="voltar()">Voltar</button>
                 <p class="lead">Preencha o formulário abaixo:</p>
                 <div class="form-group">
                   <label for="fullname">Nome</label>
@@ -550,6 +551,12 @@
       
         document.getElementById("select").classList.add("d-none")
         
+      }
+
+      function voltar() {
+        document.getElementById("_form_").classList.add("d-none")
+      
+        document.getElementById("select").classList.remove("d-none")
       }
       
       function queryUTM() {
