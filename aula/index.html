@@ -43,7 +43,7 @@
             <h1 class="mb-4 text-center">O segredo <u>número 1</u> dos 5 maiores bancos do Brasil</h1>
             <div id="vid_6463e180c3911b0009e8d416" style="position:relative;width:100%;padding: 56.25% 0 0;"><img id="thumb_6463e180c3911b0009e8d416" src="https://images.converteai.net/ccdae62e-116b-492f-9648-160a0c5bfcc3/players/6463e180c3911b0009e8d416/thumbnail.jpg" style="position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;display:block;"><div id="backdrop_6463e180c3911b0009e8d416" style="position:absolute;top:0;width:100%;height:100%;-webkit-backdrop-filter:blur(5px);backdrop-filter:blur(5px);"></div></div><script type="text/javascript" id="scr_6463e180c3911b0009e8d416">var s=document.createElement("script");s.src="https://scripts.converteai.net/ccdae62e-116b-492f-9648-160a0c5bfcc3/players/6463e180c3911b0009e8d416/player.js",s.async=!0,document.head.appendChild(s);</script>
 
-            <div class="formulario p-sm-4 p-2 mt-4 d-none">
+            <div class="formulario p-sm-4 p-2 mt-4 d-none" id="form">
               <div id="select" class="p-3">
                 <p class="lead">Quanto você tem disponível para investir?</p>
                 <button type="button" class="btn btn-success btn-block btn-lg mb-4 font-weight-bold" onclick="form_menos('Menos de R$ 100.000')">Menos de R$ 100.000</button>
@@ -101,6 +101,9 @@
     </footer>
 
     <script type="text/javascript">
+
+      setTimeout(() => {document.getElementById("form").classList.remove("d-none")}, 720000); // temporização da Call to Action (em milissegundos)
+
       function form_menos(valor) {
         document.getElementById("field[9]").value = valor;
       
