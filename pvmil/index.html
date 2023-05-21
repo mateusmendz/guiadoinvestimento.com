@@ -111,6 +111,44 @@
     </div>
 
     <script type="text/javascript">
+
+      function queryUTM() {
+  let result = {}
+  const keyValuePairs = location.search.slice(1).split('&')
+
+  keyValuePairs.forEach(function (keyValuePair) {
+    keyValuePair = keyValuePair.split('=')
+
+    result[decodeURIComponent(keyValuePair[0])] =
+      decodeURIComponent(keyValuePair[1]) || ''
+  })
+
+  return result
+}
+
+window.onload = function () {
+  const utm = queryUTM()
+
+  if (utm['utm_source'])
+    document.querySelector('input[name="field[3]"]').value = utm['utm_source']
+
+  if (utm['utm_campaign'])
+    document.querySelector('input[name="field[6]"]').value = utm['utm_campaign']
+
+  if (utm['utm_medium'])
+    document.querySelector('input[name="field[4]"]').value = utm['utm_medium']
+
+  if (utm['utm_content'])
+    document.querySelector('input[name="field[5]"]').value = utm['utm_content']
+
+  if (utm['utm_term'])
+    document.querySelector('input[name="field[7]"]').value = utm['utm_term']
+
+  
+
+  
+}
+      
       window.cfields = {"8":"select_20","3":"utmsource","6":"utmcampaign","4":"utmmedium","5":"utmcontent","7":"utmterm"};
       window._show_thank_you = function(id, message, trackcmp_url, email) {
         var form = document.getElementById('_form_' + id + '_'), thank_you = form.querySelector('._form-thank-you');
