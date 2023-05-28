@@ -35,7 +35,11 @@
       script.parentNode.insertBefore(tag, script);
     }(window, document);
 
-    obApi('track', 'searchbodis');
+    obApi('track', 'searchbodis', {
+  orderId: '123456',
+  orderValue: '4.99', 
+  currency: 'USD',
+});;
   </script>
 
   <!-- Taboola Pixel Code -->
