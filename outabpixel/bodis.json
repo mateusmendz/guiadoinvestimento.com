@@ -1,0 +1,4131 @@
+{
+    "current_page": 1,
+    "data": [{
+        "visit_id": "b518f5b5-fce5-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxntk3mtg4mjy",
+        "uuid": "0fb81274-f072-5eeb-0225-2dcee18b4786",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "41.254.64.181",
+        "type": "click",
+        "server_datetime": "2023-05-27 23:23:50",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Medshare Insurance",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 11; SM-A205F Build\/RP1A.200720.012; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/111.0.5563.58 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/415.0.0.34.107;]",
+        "estimated_revenue": 0.01,
+        "country": {
+            "country_id": 125,
+            "country_code": "ly",
+            "country_name": "Libyan Arab Jamahiriya"
+        },
+        "s2s": [{
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }, {
+            "s2s_id": 996,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=searchbodis&revenue=0.01&currency=USD"
+        }, {
+            "s2s_id": 997,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=searchbodis&orderValue=0.01&currency=USD"
+        }]
+    }, {
+        "visit_id": "98e73050-fce5-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxntk3mtuymde",
+        "uuid": "0fb81274-f072-5eeb-0225-2dcee18b4786",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "41.254.64.181",
+        "type": "click",
+        "server_datetime": "2023-05-27 23:23:47",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Medshare Insurance",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 11; SM-A205F Build\/RP1A.200720.012; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/111.0.5563.58 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/415.0.0.34.107;]",
+        "estimated_revenue": 0.01,
+        "country": {
+            "country_id": 125,
+            "country_code": "ly",
+            "country_name": "Libyan Arab Jamahiriya"
+        },
+        "s2s": [{
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }, {
+            "s2s_id": 996,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=searchbodis&revenue=0.01&currency=USD"
+        }, {
+            "s2s_id": 997,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=searchbodis&orderValue=0.01&currency=USD"
+        }]
+    }, {
+        "visit_id": "93282792-fce5-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxntk3mdg2otm",
+        "uuid": "0fb81274-f072-5eeb-0225-2dcee18b4786",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "41.254.64.181",
+        "type": "click",
+        "server_datetime": "2023-05-27 23:23:10",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Medshare Insurance",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 11; SM-A205F Build\/RP1A.200720.012; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/111.0.5563.58 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/415.0.0.34.107;]",
+        "estimated_revenue": 0.01,
+        "country": {
+            "country_id": 125,
+            "country_code": "ly",
+            "country_name": "Libyan Arab Jamahiriya"
+        },
+        "s2s": [{
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }, {
+            "s2s_id": 996,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=searchbodis&revenue=0.01&currency=USD"
+        }, {
+            "s2s_id": 997,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=searchbodis&orderValue=0.01&currency=USD"
+        }]
+    }, {
+        "visit_id": "9cde94bc-fce3-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxntk1ndm4nje",
+        "uuid": "048acc68-8e4d-d248-9952-486c1ad19fda",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "186.89.213.221",
+        "type": "click",
+        "server_datetime": "2023-05-27 23:08:30",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Medshare Insurance",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (iPhone; CPU iPhone OS 15_5 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Mobile\/19F77 [FBAN\/FBIOS;FBDV\/iPhone11,8;FBMD\/iPhone;FBSN\/iOS;FBSV\/15.5;FBSS\/2;FBID\/phone;FBLC\/es_LA;FBOP\/5]",
+        "estimated_revenue": 0.1,
+        "country": {
+            "country_id": 240,
+            "country_code": "ve",
+            "country_name": "Venezuela"
+        },
+        "s2s": [{
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }, {
+            "s2s_id": 996,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=searchbodis&revenue=0.1&currency=USD"
+        }, {
+            "s2s_id": 997,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=searchbodis&orderValue=0.1&currency=USD"
+        }]
+    }, {
+        "visit_id": "17a20502-fce3-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxntk1mdk1mzk",
+        "uuid": "8c154e1a-f54a-2b56-41a1-76f5ac072694",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "154.121.56.123",
+        "type": "click",
+        "server_datetime": "2023-05-27 23:05:03",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Chronic Migraine Treatment and Specialist Doctor",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 11; Infinix X688B Build\/RP1A.200720.011; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.131 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/415.0.0.34.107;]",
+        "estimated_revenue": 0.01,
+        "country": {
+            "country_id": 3,
+            "country_code": "dz",
+            "country_name": "Algeria"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 996,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=searchbodis&revenue=0.01&currency=USD"
+        }, {
+            "s2s_id": 997,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=searchbodis&orderValue=0.01&currency=USD"
+        }]
+    }, {
+        "visit_id": "e9941a54-fce2-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxntk0ody1mdy",
+        "uuid": "20feed9d-b879-54cb-9ece-8b6817b64979",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "196.135.117.81",
+        "type": "click",
+        "server_datetime": "2023-05-27 23:03:32",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Invisalign Store Near Me",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 11; SM-A305F Build\/RP1A.200720.012; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/101.0.4951.61 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/410.0.0.26.115;]",
+        "estimated_revenue": 0.02,
+        "country": {
+            "country_id": 65,
+            "country_code": "eg",
+            "country_name": "Egypt"
+        },
+        "s2s": [{
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }, {
+            "s2s_id": 996,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=searchbodis&revenue=0.02&currency=USD"
+        }, {
+            "s2s_id": 997,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=searchbodis&orderValue=0.02&currency=USD"
+        }]
+    }, {
+        "visit_id": "9858f3d7-fcdf-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxntkymtuxndk",
+        "uuid": "bfd4016a-eb22-cd56-6524-ab6043417619",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "41.254.43.58",
+        "type": "click",
+        "server_datetime": "2023-05-27 22:40:51",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Medshare Insurance",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 11; SM-A107F Build\/RP1A.200720.012; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/112.0.5615.135 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/412.0.0.22.115;]",
+        "estimated_revenue": 0.01,
+        "country": {
+            "country_id": 125,
+            "country_code": "ly",
+            "country_name": "Libyan Arab Jamahiriya"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 996,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=searchbodis&revenue=0.01&currency=USD"
+        }, {
+            "s2s_id": 997,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=searchbodis&orderValue=0.01&currency=USD"
+        }]
+    }, {
+        "visit_id": "7b2ce071-fcde-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxntkxmtk1ode",
+        "uuid": "13f0fb4e-b60d-1abd-1cc3-d6f5f756d6b6",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "38.41.8.34",
+        "type": "click",
+        "server_datetime": "2023-05-27 22:32:14",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Invisalign Orthodontist In",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/afs.googlesyndication.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 12; TECNO BF7 Build\/SP1A.210812.016; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.131 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/416.0.0.35.85;]",
+        "estimated_revenue": 0.02,
+        "country": {
+            "country_id": 240,
+            "country_code": "ve",
+            "country_name": "Venezuela"
+        },
+        "s2s": [{
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }, {
+            "s2s_id": 996,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=searchbodis&revenue=0.02&currency=USD"
+        }, {
+            "s2s_id": 997,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=searchbodis&orderValue=0.02&currency=USD"
+        }]
+    }, {
+        "visit_id": "662356f3-fcda-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxntg3nza0mzc",
+        "uuid": "091b5ef7-037c-4e19-ad5b-28e8edae94ec",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "154.133.6.34",
+        "type": "click",
+        "server_datetime": "2023-05-27 22:02:54",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Where to Get Teeth Implants",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 12; SM-A037F Build\/SP1A.210812.016; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/112.0.5615.48 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/415.0.0.34.107;]",
+        "estimated_revenue": 0.05,
+        "country": {
+            "country_id": 65,
+            "country_code": "eg",
+            "country_name": "Egypt"
+        },
+        "s2s": [{
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }, {
+            "s2s_id": 996,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=searchbodis&revenue=0.05&currency=USD"
+        }, {
+            "s2s_id": 997,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=searchbodis&orderValue=0.05&currency=USD"
+        }]
+    }, {
+        "visit_id": "64c3c604-fcda-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxntg3njg4otq",
+        "uuid": "091b5ef7-037c-4e19-ad5b-28e8edae94ec",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "154.133.6.34",
+        "type": "click",
+        "server_datetime": "2023-05-27 22:02:37",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Invisalign Store Near Me",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 12; SM-A037F Build\/SP1A.210812.016; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/112.0.5615.48 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/415.0.0.34.107;]",
+        "estimated_revenue": 0.02,
+        "country": {
+            "country_id": 65,
+            "country_code": "eg",
+            "country_name": "Egypt"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }, {
+            "s2s_id": 996,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=searchbodis&revenue=0.02&currency=USD"
+        }, {
+            "s2s_id": 997,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=searchbodis&orderValue=0.02&currency=USD"
+        }]
+    }, {
+        "visit_id": "0151bfd7-fcd4-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxntgymta0mji",
+        "uuid": "2f803171-c665-e7c1-f182-d070dd9744a7",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "105.106.248.109",
+        "type": "click",
+        "server_datetime": "2023-05-27 21:17:21",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Medshare Insurance",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; SM-A137F Build\/TP1A.220624.014; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.76 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/416.0.0.35.85;]",
+        "estimated_revenue": 0.13,
+        "country": {
+            "country_id": 3,
+            "country_code": "dz",
+            "country_name": "Algeria"
+        },
+        "s2s": [{
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "93a039ac-fcd3-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxntgxnzaxotk",
+        "uuid": "dd6a2e95-2561-a7f9-3b9c-b8a6ff35eba3",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "154.121.16.137",
+        "type": "click",
+        "server_datetime": "2023-05-27 21:13:49",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Low Cost All on 4 Dental Implants",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 11; CPH2349 Build\/RP1A.200720.011; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/112.0.5615.135 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/406.0.0.26.90;]",
+        "estimated_revenue": 0.01,
+        "country": {
+            "country_id": 3,
+            "country_code": "dz",
+            "country_name": "Algeria"
+        },
+        "s2s": [{
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "db3885f2-fcd2-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxntgxmdezmdc",
+        "uuid": "15b050f8-2da8-da22-644f-47521db267e9",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "197.4.28.128",
+        "type": "click",
+        "server_datetime": "2023-05-27 21:08:55",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Medshare Insurance",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 12; CPH2471 Build\/SP1A.210812.016; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/103.0.5060.129 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/398.0.0.21.105;]",
+        "estimated_revenue": 0,
+        "country": {
+            "country_id": 225,
+            "country_code": "tn",
+            "country_name": "Tunisia"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "c29ece86-fcd0-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxntc5mteynju",
+        "uuid": "b8cb0ae6-b8f1-415f-5d6a-77ce4167d888",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "190.142.135.208",
+        "type": "click",
+        "server_datetime": "2023-05-27 20:54:02",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Medshare Insurance",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 12; TECNO KI5k Build\/SP1A.210812.016; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.131 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/416.0.0.35.85;]",
+        "estimated_revenue": 0.11,
+        "country": {
+            "country_id": 240,
+            "country_code": "ve",
+            "country_name": "Venezuela"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }]
+    }, {
+        "visit_id": "f77b79a3-fcce-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxntc3ndyxmdy",
+        "uuid": "b701019b-5c61-f8d2-3969-4b2500f528cf",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "37.238.184.23",
+        "type": "click",
+        "server_datetime": "2023-05-27 20:40:45",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Medshare Insurance",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 12; SM-A115F Build\/SP1A.210812.016; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.131 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/416.0.0.35.85;]",
+        "estimated_revenue": 0,
+        "country": {
+            "country_id": 104,
+            "country_code": "iq",
+            "country_name": "Iraq"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "256541a4-fccd-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxntc1nzm5mtu",
+        "uuid": "dc997807-89b6-b9eb-af73-8ebf10057c6e",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "37.237.128.5",
+        "type": "click",
+        "server_datetime": "2023-05-27 20:28:25",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Invisalign Store Near Me",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 12; M2102J20SG Build\/SKQ1.211006.001; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.132 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/416.0.0.35.85;]",
+        "estimated_revenue": 0.01,
+        "country": {
+            "country_id": 104,
+            "country_code": "iq",
+            "country_name": "Iraq"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "2c559692-fccc-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxntc0odawody",
+        "uuid": "d43f8134-1c22-8957-0594-50ccceea914d",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "103.155.118.228",
+        "type": "click",
+        "server_datetime": "2023-05-27 20:20:45",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Medshare Insurance",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 11; Infinix X665B Build\/RP1A.200720.011; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.131 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/416.0.0.35.85;]",
+        "estimated_revenue": 0.01,
+        "country": {
+            "country_id": 18,
+            "country_code": "bd",
+            "country_name": "Bangladesh"
+        },
+        "s2s": [{
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "08580ad7-fccc-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxntc0njy1oti",
+        "uuid": "d43f8134-1c22-8957-0594-50ccceea914d",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "103.155.118.228",
+        "type": "click",
+        "server_datetime": "2023-05-27 20:19:40",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Medshare Insurance",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 11; Infinix X665B Build\/RP1A.200720.011; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.131 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/416.0.0.35.85;]",
+        "estimated_revenue": 0.01,
+        "country": {
+            "country_id": 18,
+            "country_code": "bd",
+            "country_name": "Bangladesh"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "c0ba497a-fccb-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxntc0ndaxotm",
+        "uuid": "478848ce-0973-09be-0f2f-e546876a8cf4",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "37.236.132.14",
+        "type": "click",
+        "server_datetime": "2023-05-27 20:17:58",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Invisalign Orthodontist In",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; SM-J610F Build\/QP1A.190711.020; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.131 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/416.0.0.35.85;]",
+        "estimated_revenue": 0.01,
+        "country": {
+            "country_id": 104,
+            "country_code": "iq",
+            "country_name": "Iraq"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }]
+    }, {
+        "visit_id": "2cf3e807-fccb-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxntczodexndu",
+        "uuid": "359b8003-a1cf-8039-074f-787858a9ba9e",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "39.53.200.236",
+        "type": "click",
+        "server_datetime": "2023-05-27 20:14:11",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Invisalign Store Near Me",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 7.1.1; SM-J250F Build\/NMF26X; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.76 Mobile Safari\/537.36 Instagram 284.0.0.22.85 Android (25\/7.1.1; 240dpi; 540x960; samsung; SM-J250F; j2y18lte; qcom; en_GB; 477443850)",
+        "estimated_revenue": 0.02,
+        "country": {
+            "country_id": 167,
+            "country_code": "pk",
+            "country_name": "Pakistan"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "34eff672-fcca-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxntcyodk2mjk",
+        "uuid": "5af6ee2b-12a8-1e6a-f816-3abc2a5ac5b1",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "37.111.220.205",
+        "type": "click",
+        "server_datetime": "2023-05-27 20:07:14",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Invisalign Orthodontist In",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 11; Infinix X688B Build\/RP1A.200720.011; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/112.0.5615.135 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/413.0.0.30.104;]",
+        "estimated_revenue": 0.04,
+        "country": {
+            "country_id": 18,
+            "country_code": "bd",
+            "country_name": "Bangladesh"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }]
+    }, {
+        "visit_id": "30a268b4-fcca-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxntcyodqwndi",
+        "uuid": "f54436ab-f5d8-60c0-991d-4993a726f7f6",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "156.185.153.36",
+        "type": "click",
+        "server_datetime": "2023-05-27 20:06:10",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Low Cost All on 4 Dental Implants",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 11; CPH2349 Build\/RP1A.200720.011; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/94.0.4606.85 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/379.0.0.24.109;]",
+        "estimated_revenue": 0.1,
+        "country": {
+            "country_id": 65,
+            "country_code": "eg",
+            "country_name": "Egypt"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "a1977cb2-fcc9-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxntcymjgxnjk",
+        "uuid": "da31a42d-725b-d3c9-90e3-0cdf8f366b89",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "59.153.127.136",
+        "type": "click",
+        "server_datetime": "2023-05-27 20:02:21",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Medshare Insurance",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 12; SM-A315N Build\/SP1A.210812.016; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.76 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/396.0.0.21.104;]",
+        "estimated_revenue": 0.04,
+        "country": {
+            "country_id": 1,
+            "country_code": "af",
+            "country_name": "Afghanistan"
+        },
+        "s2s": [{
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "c051774d-fcc5-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxnty4nduxmdg",
+        "uuid": "9789ac00-f66b-0770-5f4b-adce9d2ca234",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "94.187.10.112",
+        "type": "click",
+        "server_datetime": "2023-05-27 19:35:04",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Low Cost All on 4 Dental Implants",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 12; SM-A115F Build\/SP1A.210812.016; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.131 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/416.0.0.35.85;]",
+        "estimated_revenue": 0.01,
+        "country": {
+            "country_id": 122,
+            "country_code": "lb",
+            "country_name": "Lebanon"
+        },
+        "s2s": [{
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "bf5e64aa-fcc5-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxnty4ndm5nji",
+        "uuid": "9789ac00-f66b-0770-5f4b-adce9d2ca234",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "94.187.10.112",
+        "type": "click",
+        "server_datetime": "2023-05-27 19:34:56",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Low Cost All on 4 Dental Implants",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 12; SM-A115F Build\/SP1A.210812.016; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.131 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/416.0.0.35.85;]",
+        "estimated_revenue": 0.01,
+        "country": {
+            "country_id": 122,
+            "country_code": "lb",
+            "country_name": "Lebanon"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "57ecfb23-fcc3-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxnty1odgxody",
+        "uuid": "711635b0-5439-b697-2b37-7ef89c877439",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "105.235.132.224",
+        "type": "click",
+        "server_datetime": "2023-05-27 19:17:58",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Medshare Insurance",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; M2006C3MI Build\/QP1A.190711.020; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.163 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/416.0.0.35.85;]",
+        "estimated_revenue": 0.01,
+        "country": {
+            "country_id": 3,
+            "country_code": "dz",
+            "country_name": "Algeria"
+        },
+        "s2s": [{
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "3b17876d-fcc3-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxnty1oda2oda",
+        "uuid": "711635b0-5439-b697-2b37-7ef89c877439",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "105.235.132.224",
+        "type": "click",
+        "server_datetime": "2023-05-27 19:17:00",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Medshare Insurance",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; M2006C3MI Build\/QP1A.190711.020; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.163 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/416.0.0.35.85;]",
+        "estimated_revenue": 0.01,
+        "country": {
+            "country_id": 3,
+            "country_code": "dz",
+            "country_name": "Algeria"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }]
+    }, {
+        "visit_id": "85ac1faf-fcc2-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxnty1mdu5odg",
+        "uuid": "a4975b49-a252-ef95-cbe8-66093c92cc36",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "103.138.173.13",
+        "type": "click",
+        "server_datetime": "2023-05-27 19:12:27",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Medshare Insurance",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 12; SM-M135F Build\/SP1A.210812.016; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.131 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/416.0.0.35.85;]",
+        "estimated_revenue": 0.01,
+        "country": {
+            "country_id": 18,
+            "country_code": "bd",
+            "country_name": "Bangladesh"
+        },
+        "s2s": [{
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }]
+    }, {
+        "visit_id": "3b00d340-fcc2-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxnty0nzi0nju",
+        "uuid": "0be7e163-dd8c-6d33-cf75-83fe4de54258",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "117.102.62.183",
+        "type": "click",
+        "server_datetime": "2023-05-27 19:09:31",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Invisalign Store Near Me",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 11; TECNO KG5k Build\/RP1A.201005.001; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.163 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/416.0.0.35.85;]",
+        "estimated_revenue": 0,
+        "country": {
+            "country_id": 167,
+            "country_code": "pk",
+            "country_name": "Pakistan"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "19875b33-fcc2-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxnty0njezntq",
+        "uuid": "ea5b0bf8-010c-60cc-4f95-c1754f7aa586",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "39.39.175.196",
+        "type": "click",
+        "server_datetime": "2023-05-27 19:09:20",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Invisalign Orthodontist In",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 11; TECNO PR651 Build\/RP1A.201005.001; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/111.0.5563.58 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/416.0.0.35.85;]",
+        "estimated_revenue": 0.02,
+        "country": {
+            "country_id": 167,
+            "country_code": "pk",
+            "country_name": "Pakistan"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "191afcd3-fcc2-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxnty0nja4nze",
+        "uuid": "012ebf34-9cf8-cc00-1c63-5e561d28e25a",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "110.227.25.148",
+        "type": "click",
+        "server_datetime": "2023-05-27 19:09:15",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Invisalign Store Near Me",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; SM-J600G Build\/QP1A.190711.020; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/89.0.4389.105 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/370.0.0.23.112;]",
+        "estimated_revenue": 0.16,
+        "country": {
+            "country_id": 101,
+            "country_code": "in",
+            "country_name": "India"
+        },
+        "s2s": [{
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }]
+    }, {
+        "visit_id": "a7241767-fcbd-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxntu5odm2mdc",
+        "uuid": "b56e07b5-cc2b-2bc7-c8e0-7156d118fd3e",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "156.38.43.79",
+        "type": "click",
+        "server_datetime": "2023-05-27 18:37:25",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Medical Billing and Coding Online Courses",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/afs.googlesyndication.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 9; SM-A305F Build\/PPR1.180610.011; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.173 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/416.0.0.35.85;]",
+        "estimated_revenue": 0.02,
+        "country": {
+            "country_id": 125,
+            "country_code": "ly",
+            "country_name": "Libyan Arab Jamahiriya"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "6882d0d5-fcba-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxntu2mjizmja",
+        "uuid": "2141968d-8f8a-ffc7-bf3f-c1663c1087d2",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "157.39.65.28",
+        "type": "click",
+        "server_datetime": "2023-05-27 18:13:35",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Medical Billing and Coding Online Courses",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 11; V2068 Build\/RP1A.200720.012; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/105.0.5195.136 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/388.0.0.32.105;]",
+        "estimated_revenue": 0,
+        "country": {
+            "country_id": 101,
+            "country_code": "in",
+            "country_name": "India"
+        },
+        "s2s": [{
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "476a33fe-fcba-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxntu2mtawndc",
+        "uuid": "3f3c5561-1561-468f-2d41-576370ef9c0e",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "106.217.143.204",
+        "type": "click",
+        "server_datetime": "2023-05-27 18:13:16",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Invisalign Store Near Me",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 11; M2006C3LI Build\/RP1A.200720.011; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/110.0.5481.154 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/411.1.0.29.112;]",
+        "estimated_revenue": 0.04,
+        "country": {
+            "country_id": 101,
+            "country_code": "in",
+            "country_name": "India"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "e147d340-fcb9-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxntu1nza3odc",
+        "uuid": "2e6f211c-b7f0-70ec-a8e7-c2a9fb412703",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "141.148.166.164",
+        "type": "click",
+        "server_datetime": "2023-05-27 18:09:59",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Invisalign Store Near Me",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; SM-A715F Build\/TP1A.220624.014; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.131 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/416.0.0.35.85;]",
+        "estimated_revenue": 0.77,
+        "country": {
+            "country_id": 234,
+            "country_code": "us",
+            "country_name": "United States"
+        },
+        "s2s": [{
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "33226c80-fcb8-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxntuzodqwmdy",
+        "uuid": "e645e5f4-8b14-fabd-4884-c7eb65d05210",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "156.202.118.83",
+        "type": "click",
+        "server_datetime": "2023-05-27 17:58:25",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Medshare Insurance",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 8.1.0; Infinix X606C Build\/O11019; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.162 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/416.0.0.35.85;]",
+        "estimated_revenue": 0.01,
+        "country": {
+            "country_id": 65,
+            "country_code": "eg",
+            "country_name": "Egypt"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "5f53233a-fcb5-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxntuwntkwmdy",
+        "uuid": "40f0c781-501d-8af9-c08b-2f3a1516d4cc",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "102.68.16.43",
+        "type": "click",
+        "server_datetime": "2023-05-27 17:38:03",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Medshare Insurance",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; SM-A515F Build\/TP1A.220624.014; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/112.0.5615.135 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/415.0.0.34.107;]",
+        "estimated_revenue": 0.01,
+        "country": {
+            "country_id": 200,
+            "country_code": "so",
+            "country_name": "Somalia"
+        },
+        "s2s": [{
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "4923a447-fcb5-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxntuwntg2mzc",
+        "uuid": "bbee1c62-5b21-d431-e2cb-2c40bdd88925",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "154.177.77.234",
+        "type": "click",
+        "server_datetime": "2023-05-27 17:37:47",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Invisalign Store Near Me",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 12; CPH2469 Build\/SP1A.210812.016; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/112.0.5615.135 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/414.0.0.30.113;]",
+        "estimated_revenue": 0,
+        "country": {
+            "country_id": 65,
+            "country_code": "eg",
+            "country_name": "Egypt"
+        },
+        "s2s": [{
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "bdea8d73-fcb3-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxntq4odi4otg",
+        "uuid": "cda98c54-9c14-021b-9693-afdfe9a1a9c2",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "116.71.14.82",
+        "type": "click",
+        "server_datetime": "2023-05-27 17:26:02",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Chronic Migraine Treatment and Specialist Doctor",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 7.0; SM-J701F Build\/NRD90M; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.77 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/413.0.0.30.104;]",
+        "estimated_revenue": 0,
+        "country": {
+            "country_id": 167,
+            "country_code": "pk",
+            "country_name": "Pakistan"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }]
+    }, {
+        "visit_id": "b7efc826-fcb3-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxntq4nzyxmtm",
+        "uuid": "cda98c54-9c14-021b-9693-afdfe9a1a9c2",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "116.71.14.82",
+        "type": "click",
+        "server_datetime": "2023-05-27 17:25:59",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Chronic Migraine Treatment and Specialist Doctor",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 7.0; SM-J701F Build\/NRD90M; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.77 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/413.0.0.30.104;]",
+        "estimated_revenue": 0,
+        "country": {
+            "country_id": 167,
+            "country_code": "pk",
+            "country_name": "Pakistan"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "6f02143a-fcae-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxntqynjixnzg",
+        "uuid": "d91bd578-2fe2-b888-d1be-d8782fbcb951",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "190.102.58.98",
+        "type": "click",
+        "server_datetime": "2023-05-27 16:48:44",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Low Cost All on 4 Dental Implants",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; SM-J400M Build\/QP1A.190711.020; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/112.0.5615.135 Mobile Safari\/537.36 Instagram 283.0.0.20.105 Android (29\/10; 280dpi; 720x1280; samsung; SM-J400M; j4lte; samsungexynos7570; es_US; 475221200)",
+        "estimated_revenue": 0.04,
+        "country": {
+            "country_id": 170,
+            "country_code": "pa",
+            "country_name": "Panama"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "29b5c532-fcae-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxntqymzm2mdc",
+        "uuid": "3334ea4d-ed73-7350-1975-6c86eab42d7f",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "103.181.28.50",
+        "type": "click",
+        "server_datetime": "2023-05-27 16:46:21",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Affordable Dentures & Implants Near Me",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 11; RMX2101 Build\/RKQ1.201217.002; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.131 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/416.0.0.35.85;]",
+        "estimated_revenue": 0.01,
+        "country": {
+            "country_id": 18,
+            "country_code": "bd",
+            "country_name": "Bangladesh"
+        },
+        "s2s": [{
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "01f0e130-fcae-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxntqymtm3nty",
+        "uuid": "3334ea4d-ed73-7350-1975-6c86eab42d7f",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "103.181.28.50",
+        "type": "click",
+        "server_datetime": "2023-05-27 16:45:14",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Where to Get Teeth Implants",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 11; RMX2101 Build\/RKQ1.201217.002; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.131 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/416.0.0.35.85;]",
+        "estimated_revenue": 0.01,
+        "country": {
+            "country_id": 18,
+            "country_code": "bd",
+            "country_name": "Bangladesh"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "dcf91d63-fcac-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxntqwnzk5nzy",
+        "uuid": "ecca72e6-1859-79ef-760c-af056fffef40",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "37.111.247.159",
+        "type": "click",
+        "server_datetime": "2023-05-27 16:36:51",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Invisalign Store Near Me",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 11; RMX3268 Build\/RP1A.201005.001; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/111.0.5563.116 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/411.1.0.29.112;]",
+        "estimated_revenue": 0.08,
+        "country": {
+            "country_id": 18,
+            "country_code": "bd",
+            "country_name": "Bangladesh"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }]
+    }, {
+        "visit_id": "c1e19f3c-fcab-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxntm5ntc2ndc",
+        "uuid": "7ceff95c-c942-f74f-669f-dda061613d28",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "217.64.100.221",
+        "type": "click",
+        "server_datetime": "2023-05-27 16:29:19",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Medshare Insurance",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 8.1.0; DRA-L21 Build\/HUAWEIDRA-L21; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.76 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/413.0.0.30.104;]",
+        "estimated_revenue": 0,
+        "country": {
+            "country_id": 135,
+            "country_code": "ml",
+            "country_name": "Mali"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "7c993bcb-fcab-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxntm5mjk1otm",
+        "uuid": "dc710ee4-1aaa-8220-7373-c3f2601b9b0f",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "119.30.41.207",
+        "type": "click",
+        "server_datetime": "2023-05-27 16:27:08",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Where to Get Teeth Implants",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 11; Redmi K30 Build\/RKQ1.200826.002; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/112.0.5615.47 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/415.0.0.34.107;]",
+        "estimated_revenue": 0.01,
+        "country": {
+            "country_id": 18,
+            "country_code": "bd",
+            "country_name": "Bangladesh"
+        },
+        "s2s": [{
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "a696bf0d-fcaa-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxntm4mzqxnjm",
+        "uuid": "b474e8a1-2cf2-baee-1945-d44d1e76160f",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "154.121.34.124",
+        "type": "click",
+        "server_datetime": "2023-05-27 16:20:48",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Where to Get Teeth Implants",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; SM-A325F Build\/TP1A.220624.014; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/109.0.5414.117 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/396.1.0.28.104;]",
+        "estimated_revenue": 0,
+        "country": {
+            "country_id": 3,
+            "country_code": "dz",
+            "country_name": "Algeria"
+        },
+        "s2s": [{
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "808b009b-fcaa-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxntm4mtu2mjc",
+        "uuid": "b474e8a1-2cf2-baee-1945-d44d1e76160f",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "154.121.34.124",
+        "type": "click",
+        "server_datetime": "2023-05-27 16:20:20",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Low Cost All on 4 Dental Implants",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; SM-A325F Build\/TP1A.220624.014; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/109.0.5414.117 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/396.1.0.28.104;]",
+        "estimated_revenue": 0.02,
+        "country": {
+            "country_id": 3,
+            "country_code": "dz",
+            "country_name": "Algeria"
+        },
+        "s2s": [{
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "865aaf31-fca8-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxntm1odc1ota",
+        "uuid": "179e466f-f73a-dfed-5934-0e1ac388ad03",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "41.254.65.81",
+        "type": "click",
+        "server_datetime": "2023-05-27 16:05:22",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Medshare Insurance",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; SM-A145P Build\/TP1A.220624.014; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.76 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/416.0.0.35.85;]",
+        "estimated_revenue": 0.01,
+        "country": {
+            "country_id": 125,
+            "country_code": "ly",
+            "country_name": "Libyan Arab Jamahiriya"
+        },
+        "s2s": [{
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "b49d363f-fca6-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxntmzodm0mzk",
+        "uuid": "8223b1c3-34ff-4623-c122-819151cb7423",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "41.105.140.226",
+        "type": "click",
+        "server_datetime": "2023-05-27 15:52:18",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Medshare Insurance",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 8.1.0; CPH1909 Build\/O11019; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.131 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/415.0.0.34.107;]",
+        "estimated_revenue": 0.01,
+        "country": {
+            "country_id": 3,
+            "country_code": "dz",
+            "country_name": "Algeria"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "9a34bd65-fca5-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxntmynje4mtg",
+        "uuid": "98149779-5887-fc3c-9d1d-a5761a46225d",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "37.111.206.179",
+        "type": "click",
+        "server_datetime": "2023-05-27 15:44:33",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Chronic Migraine Treatment and Specialist Doctor",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; SM-A235F Build\/TP1A.220624.014; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.163 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/415.0.0.34.107;]",
+        "estimated_revenue": 0.01,
+        "country": {
+            "country_id": 18,
+            "country_code": "bd",
+            "country_name": "Bangladesh"
+        },
+        "s2s": [{
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "0416bdaf-fca0-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxnti2mtu2nty",
+        "uuid": "27fcfb9a-f645-8e1a-f556-7e2db218c04f",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "152.58.221.17",
+        "type": "click",
+        "server_datetime": "2023-05-27 15:04:50",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Chronic Migraine Treatment and Specialist Doctor",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 11; V2135 Build\/RP1A.200720.012; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/87.0.4280.141 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/380.0.0.29.109;]",
+        "estimated_revenue": 0.02,
+        "country": {
+            "country_id": 101,
+            "country_code": "in",
+            "country_name": "India"
+        },
+        "s2s": [{
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "9f4bf9d9-fc9f-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxnti1nzq5ntm",
+        "uuid": "0863148d-2d4b-3480-4a5e-1bd6812a2731",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "117.99.217.239",
+        "type": "click",
+        "server_datetime": "2023-05-27 15:01:57",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Medical Billing and Coding Online Courses",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; M2006C3LI Build\/QP1A.190711.020; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/87.0.4280.101 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/407.0.0.30.97;]",
+        "estimated_revenue": 0.02,
+        "country": {
+            "country_id": 101,
+            "country_code": "in",
+            "country_name": "India"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "966825da-fc9f-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxnti1njq4odq",
+        "uuid": "0863148d-2d4b-3480-4a5e-1bd6812a2731",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "117.99.217.239",
+        "type": "click",
+        "server_datetime": "2023-05-27 15:01:45",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Medical Billing and Coding Online Courses",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; M2006C3LI Build\/QP1A.190711.020; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/87.0.4280.101 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/407.0.0.30.97;]",
+        "estimated_revenue": 0.02,
+        "country": {
+            "country_id": 101,
+            "country_code": "in",
+            "country_name": "India"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }]
+    }, {
+        "visit_id": "78254ee4-fc9f-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxnti1ntq0ndu",
+        "uuid": "e02201b3-3250-4e08-0432-b3290dc40c30",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "203.144.93.24",
+        "type": "click",
+        "server_datetime": "2023-05-27 15:01:00",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Invisalign Store Near Me",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 9; MRD-LX2 Build\/HUAWEIMRD-LX2; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/79.0.3945.116 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/272.0.0.50.125;]",
+        "estimated_revenue": 0.11,
+        "country": {
+            "country_id": 36,
+            "country_code": "kh",
+            "country_name": "Cambodia"
+        },
+        "s2s": [{
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "75253865-fc9f-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxnti1ntewoty",
+        "uuid": "ae2279de-863a-3327-0f65-a65f3b3c71e0",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "46.1.49.233",
+        "type": "click",
+        "server_datetime": "2023-05-27 15:00:54",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Low Cost All on 4 Dental Implants",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; SNE-LX1 Build\/HUAWEISNE-L01; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.131 Mobile Safari\/537.36 Instagram 284.0.0.22.85 Android (29\/10; 480dpi; 1080x2128; HUAWEI; SNE-LX1; HWSNE; kirin710; tr_TR; 477443883)",
+        "estimated_revenue": 0.02,
+        "country": {
+            "country_id": 226,
+            "country_code": "tr",
+            "country_name": "Turkey"
+        },
+        "s2s": [{
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "f3994a47-fc9d-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxntizodm5mzq",
+        "uuid": "d5281480-734a-8460-9b58-5e855a34c503",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "114.5.110.35",
+        "type": "click",
+        "server_datetime": "2023-05-27 14:50:06",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Biaya Lasik Jec",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; Infinix X657C Build\/QP1A.190711.020; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/105.0.5195.136 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/416.0.0.35.85;]",
+        "estimated_revenue": 0.04,
+        "country": {
+            "country_id": 102,
+            "country_code": "id",
+            "country_name": "Indonesia"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "eeb76a57-fc97-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxnte2otm0mzg",
+        "uuid": "3f44cb32-8973-36ac-408f-748e5dfcb69f",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "102.38.30.25",
+        "type": "click",
+        "server_datetime": "2023-05-27 14:07:20",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Medshare Insurance",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 11; SM-A022F Build\/RP1A.200720.012; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.131 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/416.0.0.35.85;]",
+        "estimated_revenue": 0,
+        "country": {
+            "country_id": 125,
+            "country_code": "ly",
+            "country_name": "Libyan Arab Jamahiriya"
+        },
+        "s2s": [{
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }]
+    }, {
+        "visit_id": "72d07b6e-fc93-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxntexoduxnja",
+        "uuid": "ccebd247-db87-811c-5da8-5f4ab6310f16",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "185.240.17.126",
+        "type": "click",
+        "server_datetime": "2023-05-27 13:35:01",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Dentist that Does Implants Near Me",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 12; RMX3085 Build\/SP1A.210812.016; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/107.0.5304.105 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/391.0.0.33.104;]",
+        "estimated_revenue": 0.05,
+        "country": {
+            "country_id": 104,
+            "country_code": "iq",
+            "country_name": "Iraq"
+        },
+        "s2s": [{
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "0eea414f-fc92-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxntewmzcwmty",
+        "uuid": "95734a6f-0265-6f06-bf59-73411b621baa",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "103.129.210.34",
+        "type": "click",
+        "server_datetime": "2023-05-27 13:25:04",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Chronic Migraine Treatment and Specialist Doctor",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 11; SM-A125F Build\/RP1A.200720.012; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.131 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/416.0.0.35.85;]",
+        "estimated_revenue": 0.01,
+        "country": {
+            "country_id": 18,
+            "country_code": "bd",
+            "country_name": "Bangladesh"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "e9324d32-fc90-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxnta5mtiymjq",
+        "uuid": "e4c9817a-95a1-0a9a-cca6-5919e7d48fa6",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "154.191.56.134",
+        "type": "click",
+        "server_datetime": "2023-05-27 13:16:23",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Invisalign Store Near Me",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 9; JKM-LX1 Build\/HUAWEIJKM-LX1; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/110.0.5481.154 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/389.0.0.42.111;]",
+        "estimated_revenue": 0,
+        "country": {
+            "country_id": 65,
+            "country_code": "eg",
+            "country_name": "Egypt"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }]
+    }, {
+        "visit_id": "eb6832aa-fc90-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxnta5mtq2ndg",
+        "uuid": "8bf41da0-b682-b5af-2bf5-b62f0e883de0",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "181.208.252.196",
+        "type": "click",
+        "server_datetime": "2023-05-27 13:16:18",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Dentist that do Implants",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 11; SM-A207M Build\/RP1A.200720.012; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.131 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/416.0.0.35.85;]",
+        "estimated_revenue": 0.01,
+        "country": {
+            "country_id": 240,
+            "country_code": "ve",
+            "country_name": "Venezuela"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "896f8336-fc8f-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxnta3nzixmdq",
+        "uuid": "e9742d83-d7f4-1ed8-8315-04845c1982f9",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "105.235.128.217",
+        "type": "click",
+        "server_datetime": "2023-05-27 13:07:29",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Dentist that Does Implants Near Me",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 12; M2101K7BG Build\/SP1A.210812.016; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/110.0.5481.153 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/405.1.0.28.72;]",
+        "estimated_revenue": 0.02,
+        "country": {
+            "country_id": 3,
+            "country_code": "dz",
+            "country_name": "Algeria"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }]
+    }, {
+        "visit_id": "b93816e0-fc8d-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxnta1oduwnjq",
+        "uuid": "b3f53123-2e16-d06b-70f1-5e0915bcabbb",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "196.202.223.248",
+        "type": "click",
+        "server_datetime": "2023-05-27 12:53:29",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Invisalign Store Near Me",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 12; TECNO CG6 Build\/SP1A.210812.016; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/102.0.5005.78 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/407.0.0.30.97;]",
+        "estimated_revenue": 0.04,
+        "country": {
+            "country_id": 113,
+            "country_code": "ke",
+            "country_name": "Kenya"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "09ab31b0-fc8d-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxnta1mtu1ote",
+        "uuid": "812343ad-bf26-ee42-1236-955136731274",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "117.234.21.156",
+        "type": "click",
+        "server_datetime": "2023-05-27 12:49:31",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Invisalign Store Near Me",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; M2010J19SI Build\/QKQ1.200830.002; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/87.0.4280.101 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/402.0.0.21.84;]",
+        "estimated_revenue": 0.01,
+        "country": {
+            "country_id": 101,
+            "country_code": "in",
+            "country_name": "India"
+        },
+        "s2s": [{
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "5d52382f-fc8a-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxntaymzg1mdu",
+        "uuid": "d922f7a2-213d-c5dd-c0b0-ae67af83ad82",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "156.38.41.64",
+        "type": "click",
+        "server_datetime": "2023-05-27 12:29:58",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Invisalign Store Near Me",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; SM-A037F Build\/TP1A.220624.014; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/104.0.5112.97 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/379.0.0.24.109;]",
+        "estimated_revenue": 0.01,
+        "country": {
+            "country_id": 125,
+            "country_code": "ly",
+            "country_name": "Libyan Arab Jamahiriya"
+        },
+        "s2s": [{
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "1231fd3a-fc8a-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxntaymdc1mte",
+        "uuid": "13e8514a-dbb9-2245-dc98-2a2d8ba3d813",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "43.245.143.54",
+        "type": "click",
+        "server_datetime": "2023-05-27 12:27:42",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Medshare Insurance",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/afs.googlesyndication.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 7.1.2; Redmi Note 5A Build\/N2G47H; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/110.0.5481.153 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/405.0.0.23.72;]",
+        "estimated_revenue": 0.01,
+        "country": {
+            "country_id": 18,
+            "country_code": "bd",
+            "country_name": "Bangladesh"
+        },
+        "s2s": [{
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "d1c632e6-fc89-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxntaxodc1mju",
+        "uuid": "b21de796-1d4d-3543-752e-fb7a7a15bcb1",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "182.48.77.149",
+        "type": "click",
+        "server_datetime": "2023-05-27 12:26:15",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Medshare Insurance",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 11; SM-A105F Build\/RP1A.200720.012; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.131 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/416.0.0.35.85;]",
+        "estimated_revenue": 0.01,
+        "country": {
+            "country_id": 18,
+            "country_code": "bd",
+            "country_name": "Bangladesh"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "1dcf9ad5-fc88-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxntawmtuzoty",
+        "uuid": "48609891-d166-55c6-a845-8e3bfc84a32d",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "41.254.64.66",
+        "type": "click",
+        "server_datetime": "2023-05-27 12:13:39",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Medshare Insurance",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 11; Infinix X662 Build\/RP1A.200720.011; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.131 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/416.0.0.35.85;]",
+        "estimated_revenue": 0,
+        "country": {
+            "country_id": 125,
+            "country_code": "ly",
+            "country_name": "Libyan Arab Jamahiriya"
+        },
+        "s2s": [{
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "78c115e5-fc86-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxndk4njq0njg",
+        "uuid": "c4224723-a7c9-fd54-f8f2-f11543cc9151",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "93.191.112.54",
+        "type": "click",
+        "server_datetime": "2023-05-27 12:02:35",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Invisalign Store Near Me",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; SM-A037F Build\/TP1A.220624.014; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/110.0.5481.153 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/416.0.0.35.85;]",
+        "estimated_revenue": 0,
+        "country": {
+            "country_id": 104,
+            "country_code": "iq",
+            "country_name": "Iraq"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }]
+    }, {
+        "visit_id": "680f0c23-fc81-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxndkznzu1ndk",
+        "uuid": "838d3741-2f43-42aa-4d09-f2350bc28e31",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "27.255.202.143",
+        "type": "click",
+        "server_datetime": "2023-05-27 11:25:46",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Medical Billing and Coding Online Courses",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 11; 22011119TI Build\/RP1A.200720.011; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.132 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/416.0.0.35.85;]",
+        "estimated_revenue": 0.02,
+        "country": {
+            "country_id": 101,
+            "country_code": "in",
+            "country_name": "India"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }]
+    }, {
+        "visit_id": "251ca572-fc81-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxndkzntuwnjy",
+        "uuid": "3b8ab528-d8b8-6efd-7c2c-f521673063e0",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "116.71.165.25",
+        "type": "click",
+        "server_datetime": "2023-05-27 11:23:39",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Invisalign Store Near Me",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 11; itel P651L Build\/RP1A.201005.001; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/92.0.4515.131 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/416.0.0.35.85;]",
+        "estimated_revenue": 0,
+        "country": {
+            "country_id": 167,
+            "country_code": "pk",
+            "country_name": "Pakistan"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "9a433833-fc80-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxndkzmdc3nja",
+        "uuid": "a586f838-b189-9188-1b7e-428867d3ae13",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "102.69.76.236",
+        "type": "click",
+        "server_datetime": "2023-05-27 11:20:49",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Medshare Insurance",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 7.1.1; SM-C7108 Build\/NMF26X; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.162 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/416.0.0.35.85;]",
+        "estimated_revenue": 0.01,
+        "country": {
+            "country_id": 125,
+            "country_code": "ly",
+            "country_name": "Libyan Arab Jamahiriya"
+        },
+        "s2s": [{
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "7317446d-fc80-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxndkyota3mzu",
+        "uuid": "a586f838-b189-9188-1b7e-428867d3ae13",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "102.69.76.236",
+        "type": "click",
+        "server_datetime": "2023-05-27 11:19:03",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Invisalign Orthodontist In",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 7.1.1; SM-C7108 Build\/NMF26X; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.162 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/416.0.0.35.85;]",
+        "estimated_revenue": 0.04,
+        "country": {
+            "country_id": 125,
+            "country_code": "ly",
+            "country_name": "Libyan Arab Jamahiriya"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "257d2f9d-fc7b-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxndg4mdcyodg",
+        "uuid": "9f924b95-db9b-e6e5-24e1-591bbd515a8b",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "41.249.43.112",
+        "type": "click",
+        "server_datetime": "2023-05-27 10:41:47",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Invisalign Store Near Me",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; BLA-L29 Build\/HUAWEIBLA-L29S; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/111.0.5563.116 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/414.0.0.30.113;]",
+        "estimated_revenue": 0,
+        "country": {
+            "country_id": 149,
+            "country_code": "ma",
+            "country_name": "Morocco"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "94ce9b87-fc7a-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxndg3ntmxnjc",
+        "uuid": "a4d70248-1549-dcce-7949-39fadb8c9928",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "185.24.62.150",
+        "type": "click",
+        "server_datetime": "2023-05-27 10:37:17",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Chronic Migraine Treatment and Specialist Doctor",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; SM-A600FN Build\/QP1A.190711.020; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.76 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/416.0.0.35.85;]",
+        "estimated_revenue": 0.02,
+        "country": {
+            "country_id": 104,
+            "country_code": "iq",
+            "country_name": "Iraq"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "a18b796e-fc78-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxndg1nzezmdi",
+        "uuid": "c2b000fe-2f83-d47c-a5f0-0b593b119bc8",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "37.111.237.206",
+        "type": "click",
+        "server_datetime": "2023-05-27 10:23:18",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Medshare Insurance",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 11; vivo 1906 Build\/RP1A.200720.012; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/83.0.4103.106 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/413.0.0.30.104;]",
+        "estimated_revenue": 0.01,
+        "country": {
+            "country_id": 18,
+            "country_code": "bd",
+            "country_name": "Bangladesh"
+        },
+        "s2s": [{
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "53739227-fc78-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxndg1mzcwote",
+        "uuid": "42cc6e48-98e6-f174-d981-f0131a93d445",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "103.242.22.225",
+        "type": "click",
+        "server_datetime": "2023-05-27 10:21:04",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Dentist that Does Implants Near Me",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; RMX3063 Build\/QP1A.190711.020; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/87.0.4280.101 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/326.0.0.34.120;]",
+        "estimated_revenue": 0.01,
+        "country": {
+            "country_id": 18,
+            "country_code": "bd",
+            "country_name": "Bangladesh"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }]
+    }, {
+        "visit_id": "0cf198fa-fc78-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxndg1mtiynda",
+        "uuid": "8a1f82dc-bc2a-53a2-0ddb-cdaabcfeabe9",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "103.106.240.119",
+        "type": "click",
+        "server_datetime": "2023-05-27 10:19:10",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Affordable Dentures & Implants Near Me",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 11; RMX3261 Build\/RP1A.201005.001; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.162 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/416.0.0.35.85;]",
+        "estimated_revenue": 0.01,
+        "country": {
+            "country_id": 18,
+            "country_code": "bd",
+            "country_name": "Bangladesh"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }]
+    }, {
+        "visit_id": "fce2cba2-fc74-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxndgyndy0njq",
+        "uuid": "c22411ee-0750-c03f-8024-e01006264f61",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "144.48.133.157",
+        "type": "click",
+        "server_datetime": "2023-05-27 09:57:12",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Invisalign Store Near Me",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 9; SM-J400F Build\/PPR1.180610.011; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/86.0.4240.114 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/405.0.0.23.72;]",
+        "estimated_revenue": 0.03,
+        "country": {
+            "country_id": 167,
+            "country_code": "pk",
+            "country_name": "Pakistan"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }]
+    }, {
+        "visit_id": "e48d3ada-fc72-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxndgwnteymjy",
+        "uuid": "fe524ae7-7815-2f82-667f-bb72b6fa128c",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "37.111.243.106",
+        "type": "click",
+        "server_datetime": "2023-05-27 09:42:17",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Medshare Insurance",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 11; 220333QAG Build\/RKQ1.211001.001; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/97.0.4692.98 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/410.0.0.26.115;]",
+        "estimated_revenue": 0.01,
+        "country": {
+            "country_id": 18,
+            "country_code": "bd",
+            "country_name": "Bangladesh"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "5b216746-fc71-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxndc5mdc3odq",
+        "uuid": "80236240-1823-4822-14da-381d8cb9b883",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "103.113.18.10",
+        "type": "click",
+        "server_datetime": "2023-05-27 09:31:07",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Invisalign Store Near Me",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/afs.googlesyndication.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 8.0.0; SM-A720F Build\/R16NW; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.131 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/415.0.0.34.107;]",
+        "estimated_revenue": 0.01,
+        "country": {
+            "country_id": 18,
+            "country_code": "bd",
+            "country_name": "Bangladesh"
+        },
+        "s2s": [{
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "5a19fbf3-fc71-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxndc5mdy1mzy",
+        "uuid": "80236240-1823-4822-14da-381d8cb9b883",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "103.113.18.10",
+        "type": "click",
+        "server_datetime": "2023-05-27 09:30:35",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Low Cost All on 4 Dental Implants",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/afs.googlesyndication.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 8.0.0; SM-A720F Build\/R16NW; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.131 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/415.0.0.34.107;]",
+        "estimated_revenue": 0.01,
+        "country": {
+            "country_id": 18,
+            "country_code": "bd",
+            "country_name": "Bangladesh"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "1a8b3532-fc70-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxndc3oti0mjm",
+        "uuid": "1786c992-e092-32e4-c888-d3fbf11a5552",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "102.164.100.156",
+        "type": "click",
+        "server_datetime": "2023-05-27 09:22:03",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Dentist that Does Implants Near Me",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; SM-A315G Build\/QP1A.190711.020; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/89.0.4389.86 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/407.0.0.30.97;]",
+        "estimated_revenue": 0.01,
+        "country": {
+            "country_id": 125,
+            "country_code": "ly",
+            "country_name": "Libyan Arab Jamahiriya"
+        },
+        "s2s": [{
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "d33f19bb-fc6e-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxndc2nzqwmda",
+        "uuid": "4f758590-1660-cc41-9d54-23fdebbc6709",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "106.208.144.57",
+        "type": "click",
+        "server_datetime": "2023-05-27 09:12:23",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Medical Billing and Coding Online Courses",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; CPH2373 Build\/TP1A.220905.001; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/108.0.5359.128 Mobile Safari\/537.36 Instagram 283.0.0.20.105 Android (33\/13; 480dpi; 1080x2162; OPPO; CPH2373; OP530DL1; qcom; en_GB; 475221263)",
+        "estimated_revenue": 0.03,
+        "country": {
+            "country_id": 101,
+            "country_code": "in",
+            "country_name": "India"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "e7b89b2e-fc6b-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxndc0mtu2nze",
+        "uuid": "22185a5e-85f5-d9d8-459d-6948c144f8db",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "27.255.202.143",
+        "type": "click",
+        "server_datetime": "2023-05-27 08:51:44",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Invisalign Store Near Me",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 11; 22011119TI Build\/RP1A.200720.011; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.132 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/416.0.0.35.85;]",
+        "estimated_revenue": 0.03,
+        "country": {
+            "country_id": 101,
+            "country_code": "in",
+            "country_name": "India"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "0105a02a-fc67-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxndy5ntm0mtu",
+        "uuid": "2c95480b-1db7-4cc9-5599-53cf2d445a1d",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "37.111.156.65",
+        "type": "click",
+        "server_datetime": "2023-05-27 08:17:01",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Chronic Migraine Treatment and Specialist Doctor",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 11; Infinix X688B Build\/RP1A.200720.011; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.131 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/416.0.0.35.85;]",
+        "estimated_revenue": 0.03,
+        "country": {
+            "country_id": 167,
+            "country_code": "pk",
+            "country_name": "Pakistan"
+        },
+        "s2s": [{
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "ffcde8f9-fc66-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxndy5nte3otk",
+        "uuid": "c1eebedc-f9c9-5d1d-08df-4fec20ca0544",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "103.174.85.11",
+        "type": "click",
+        "server_datetime": "2023-05-27 08:16:45",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Where to Get Teeth Implants",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 12; CPH2119 Build\/SP1A.210812.016; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.131 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/416.0.0.35.85;]",
+        "estimated_revenue": 0.01,
+        "country": {
+            "country_id": 154,
+            "country_code": "np",
+            "country_name": "Nepal"
+        },
+        "s2s": [{
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }]
+    }, {
+        "visit_id": "e3e124c5-fc66-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxndy5ndgymda",
+        "uuid": "2c95480b-1db7-4cc9-5599-53cf2d445a1d",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "37.111.156.65",
+        "type": "click",
+        "server_datetime": "2023-05-27 08:16:38",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Chronic Migraine Treatment and Specialist Doctor",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 11; Infinix X688B Build\/RP1A.200720.011; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.131 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/416.0.0.35.85;]",
+        "estimated_revenue": 0.03,
+        "country": {
+            "country_id": 167,
+            "country_code": "pk",
+            "country_name": "Pakistan"
+        },
+        "s2s": [{
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "7296e64c-fc66-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxndy5mdmyndy",
+        "uuid": "52cce26e-5380-92d9-51df-1ba03f62bc28",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "197.149.242.240",
+        "type": "click",
+        "server_datetime": "2023-05-27 08:12:26",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Invisalign Store Near Me",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; Lenovo TB-X505X Build\/QKQ1.191224.003; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/81.0.4044.138 Safari\/537.36 [FB_IAB\/FB4A;FBAV\/390.0.0.27.105;]",
+        "estimated_revenue": 0,
+        "country": {
+            "country_id": 92,
+            "country_code": "gn",
+            "country_name": "Guinea"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }]
+    }, {
+        "visit_id": "551dab5f-fc66-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxndy4otgznzi",
+        "uuid": "2a97b8f3-01d2-1d61-3968-884111dd306a",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "103.25.251.251",
+        "type": "click",
+        "server_datetime": "2023-05-27 08:12:24",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Medshare Insurance",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 8.1.0; vivo 1820 Build\/O11019; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/106.0.5249.79 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/413.0.0.30.104;]",
+        "estimated_revenue": 0.01,
+        "country": {
+            "country_id": 18,
+            "country_code": "bd",
+            "country_name": "Bangladesh"
+        },
+        "s2s": [{
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "4636757b-fc62-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxndy1mtu3nzc",
+        "uuid": "0d965e6f-ca51-0c26-5d45-ab445847f262",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "119.152.72.128",
+        "type": "click",
+        "server_datetime": "2023-05-27 07:43:30",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Medshare Insurance",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 9; itel L5002P Build\/PPR1.180610.011; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/112.0.5615.135 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/415.0.0.34.107;]",
+        "estimated_revenue": 0.01,
+        "country": {
+            "country_id": 167,
+            "country_code": "pk",
+            "country_name": "Pakistan"
+        },
+        "s2s": [{
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "1f554184-fc62-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxndy0otgymjm",
+        "uuid": "38dc6420-1b0f-2dd0-67ff-8ff607c30e17",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "129.45.58.32",
+        "type": "click",
+        "server_datetime": "2023-05-27 07:41:53",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Medshare Insurance",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 12; CPH2477 Build\/SP1A.210812.016; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/110.0.5481.153 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/414.0.0.30.113;]",
+        "estimated_revenue": 0.01,
+        "country": {
+            "country_id": 3,
+            "country_code": "dz",
+            "country_name": "Algeria"
+        },
+        "s2s": [{
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "0919b1d9-fc60-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxndyzmda2nzu",
+        "uuid": "1972d0f5-eaa9-2b19-809e-28f4ab16853c",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "123.253.97.229",
+        "type": "click",
+        "server_datetime": "2023-05-27 07:27:29",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Dentist that Does Implants Near Me",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 12; V2120 Build\/SP1A.210812.003; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.132 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/416.0.0.35.85;]",
+        "estimated_revenue": 0.01,
+        "country": {
+            "country_id": 18,
+            "country_code": "bd",
+            "country_name": "Bangladesh"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }]
+    }, {
+        "visit_id": "53e6425d-fc5f-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxndyymjcynde",
+        "uuid": "766d8926-77ce-130b-c9a2-421f8725b0e8",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "157.51.135.153",
+        "type": "click",
+        "server_datetime": "2023-05-27 07:22:15",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Affordable Dentures & Implants Near Me",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; CPH2179 Build\/QP1A.190711.020; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/83.0.4103.106 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/386.0.0.35.108;]",
+        "estimated_revenue": 0.01,
+        "country": {
+            "country_id": 101,
+            "country_code": "in",
+            "country_name": "India"
+        },
+        "s2s": [{
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "3189ce25-fc5f-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxndyymtu3mzg",
+        "uuid": "766d8926-77ce-130b-c9a2-421f8725b0e8",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "157.51.135.153",
+        "type": "click",
+        "server_datetime": "2023-05-27 07:21:17",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Medical Billing and Coding Online Courses",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; CPH2179 Build\/QP1A.190711.020; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/83.0.4103.106 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/386.0.0.35.108;]",
+        "estimated_revenue": 0.04,
+        "country": {
+            "country_id": 101,
+            "country_code": "in",
+            "country_name": "India"
+        },
+        "s2s": [{
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "12d99f50-fc5f-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxndyymdg0mtg",
+        "uuid": "766d8926-77ce-130b-c9a2-421f8725b0e8",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "157.51.135.153",
+        "type": "click",
+        "server_datetime": "2023-05-27 07:20:38",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Medical Billing and Coding Online Courses",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; CPH2179 Build\/QP1A.190711.020; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/83.0.4103.106 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/386.0.0.35.108;]",
+        "estimated_revenue": 0.05,
+        "country": {
+            "country_id": 101,
+            "country_code": "in",
+            "country_name": "India"
+        },
+        "s2s": [{
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "0dec4a04-fc5f-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxndyymde4mdi",
+        "uuid": "766d8926-77ce-130b-c9a2-421f8725b0e8",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "157.51.135.153",
+        "type": "click",
+        "server_datetime": "2023-05-27 07:20:23",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Invisalign Store Near Me",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; CPH2179 Build\/QP1A.190711.020; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/83.0.4103.106 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/386.0.0.35.108;]",
+        "estimated_revenue": 0.02,
+        "country": {
+            "country_id": 101,
+            "country_code": "in",
+            "country_name": "India"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "0c2ece4d-fc5f-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxndyxotk0ntq",
+        "uuid": "766d8926-77ce-130b-c9a2-421f8725b0e8",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "157.51.135.153",
+        "type": "click",
+        "server_datetime": "2023-05-27 07:20:15",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Invisalign Store Near Me",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; CPH2179 Build\/QP1A.190711.020; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/83.0.4103.106 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/386.0.0.35.108;]",
+        "estimated_revenue": 0.02,
+        "country": {
+            "country_id": 101,
+            "country_code": "in",
+            "country_name": "India"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "f8fffbf1-fc5c-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxndywmtu1mje",
+        "uuid": "a2a1abfa-213e-d19b-56ba-788762bd016c",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "45.157.55.146",
+        "type": "click",
+        "server_datetime": "2023-05-27 07:05:53",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Low Cost All on 4 Dental Implants",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 11; SM-A307FN Build\/RP1A.200720.012; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.131 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/416.0.0.35.85;]",
+        "estimated_revenue": 0.01,
+        "country": {
+            "country_id": 104,
+            "country_code": "iq",
+            "country_name": "Iraq"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }]
+    }, {
+        "visit_id": "feda008f-fc5a-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxndu4mzayoda",
+        "uuid": "197832ab-2f6c-46c2-bc52-06bebc1827eb",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "177.222.108.95",
+        "type": "click",
+        "server_datetime": "2023-05-27 06:50:55",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "How Expensive are Dental Implants",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 11; RMX3263 Build\/RP1A.201005.001; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.131 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/416.0.0.35.85;]",
+        "estimated_revenue": 0.04,
+        "country": {
+            "country_id": 26,
+            "country_code": "bo",
+            "country_name": "Bolivia"
+        },
+        "s2s": [{
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }]
+    }, {
+        "visit_id": "fdacba3b-fc5a-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxndu4mjg3mtg",
+        "uuid": "197832ab-2f6c-46c2-bc52-06bebc1827eb",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "177.222.108.95",
+        "type": "click",
+        "server_datetime": "2023-05-27 06:50:48",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "How Expensive are Dental Implants",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 11; RMX3263 Build\/RP1A.201005.001; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.131 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/416.0.0.35.85;]",
+        "estimated_revenue": 0.04,
+        "country": {
+            "country_id": 26,
+            "country_code": "bo",
+            "country_name": "Bolivia"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }]
+    }, {
+        "visit_id": "e8e15aff-fc52-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxnduwotc0otg",
+        "uuid": "5045a63c-4e43-3f7b-b12d-bd3e58014a2a",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "103.48.160.15",
+        "type": "click",
+        "server_datetime": "2023-05-27 05:53:34",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Invisalign Store Near Me",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 11; SM-M022G Build\/RP1A.200720.012; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.131 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/416.0.0.35.85;]",
+        "estimated_revenue": 0,
+        "country": {
+            "country_id": 18,
+            "country_code": "bd",
+            "country_name": "Bangladesh"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "c136576a-fc52-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxnduwnzkxnjc",
+        "uuid": "454baf91-806f-50f4-3833-32dee493316c",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "37.237.251.21",
+        "type": "click",
+        "server_datetime": "2023-05-27 05:52:15",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Medshare Insurance",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 7.1.1; SM-J510H Build\/NMF26X; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.163 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/416.0.0.35.85;]",
+        "estimated_revenue": 0.02,
+        "country": {
+            "country_id": 104,
+            "country_code": "iq",
+            "country_name": "Iraq"
+        },
+        "s2s": [{
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "54cb5aa2-fc52-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxnduwnda1ndg",
+        "uuid": "61a202c1-a943-cd49-da78-33c8308d278f",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "106.216.252.98",
+        "type": "click",
+        "server_datetime": "2023-05-27 05:48:44",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Invisalign Store Near Me",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 11; 220233L2I) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/97.0.4692.98 Mobile Safari\/537.36",
+        "estimated_revenue": 0.3,
+        "country": {
+            "country_id": 101,
+            "country_code": "in",
+            "country_name": "India"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "147acb58-fc52-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxnduwmjuxnje",
+        "uuid": "0af8f006-2458-ba34-3e41-6bb0996c4b1a",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "103.140.132.73",
+        "type": "click",
+        "server_datetime": "2023-05-27 05:47:52",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Medshare Insurance",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 9; TA-1032 Build\/PPR1.180610.011; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.162 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/416.0.0.35.85;]",
+        "estimated_revenue": 0.01,
+        "country": {
+            "country_id": 154,
+            "country_code": "np",
+            "country_name": "Nepal"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "cc92f66e-fc51-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxndq5otkynzi",
+        "uuid": "efdd3aab-8581-227c-f70d-2f7da91672e8",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "202.86.223.123",
+        "type": "click",
+        "server_datetime": "2023-05-27 05:45:26",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Affordable Dentures & Implants Near Me",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; SM-A105G Build\/QP1A.190711.020; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/87.0.4280.101 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/377.0.0.22.107;]",
+        "estimated_revenue": 0.01,
+        "country": {
+            "country_id": 18,
+            "country_code": "bd",
+            "country_name": "Bangladesh"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }]
+    }, {
+        "visit_id": "d2933b87-fc4f-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxndq4mje2ntm",
+        "uuid": "f7d0e5ab-c2c3-d56a-06e5-9fe6db9f8b75",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "119.160.98.27",
+        "type": "click",
+        "server_datetime": "2023-05-27 05:30:46",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Invisalign Store Near Me",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 11; SM-A022F Build\/RP1A.200720.012; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.131 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/416.0.0.35.85;]",
+        "estimated_revenue": 0.11,
+        "country": {
+            "country_id": 167,
+            "country_code": "pk",
+            "country_name": "Pakistan"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "6bc173e4-fc4f-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxndq3ota4otg",
+        "uuid": "235048dc-414c-0c46-bf74-09ff6ba2fe66",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "202.181.19.252",
+        "type": "click",
+        "server_datetime": "2023-05-27 05:28:33",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Invisalign Orthodontist In",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 12; SM-M315F Build\/SP1A.210812.016; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/107.0.5304.141 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/394.1.0.51.107;]",
+        "estimated_revenue": 0.03,
+        "country": {
+            "country_id": 18,
+            "country_code": "bd",
+            "country_name": "Bangladesh"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "e26066f3-fc4c-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxndq1ntc2mzm",
+        "uuid": "4cf3f956-8a36-9588-1fa6-b134e628e58c",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "192.145.175.199",
+        "type": "click",
+        "server_datetime": "2023-05-27 05:10:01",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Dentist that Does Implants Near Me",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; SM-F127G Build\/TP1A.220624.014; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/106.0.5249.126 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/406.0.0.26.90;]",
+        "estimated_revenue": 0.05,
+        "country": {
+            "country_id": 200,
+            "country_code": "so",
+            "country_name": "Somalia"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "1675adbb-fc4b-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxndqzotk2nde",
+        "uuid": "5b33d781-1dea-a401-1e09-47b45b84ed90",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "190.97.226.25",
+        "type": "click",
+        "server_datetime": "2023-05-27 04:57:30",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Medshare Insurance",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; M2006C3MG Build\/QP1A.190711.020; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.76 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/415.0.0.34.107;]",
+        "estimated_revenue": 0.05,
+        "country": {
+            "country_id": 240,
+            "country_code": "ve",
+            "country_name": "Venezuela"
+        },
+        "s2s": [{
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "d4bb4ef7-fc49-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxndqyodcwoti",
+        "uuid": "3f43aa38-2d06-83e0-512b-51bf063d2f66",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "37.236.153.8",
+        "type": "click",
+        "server_datetime": "2023-05-27 04:48:27",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Invisalign Store Near Me",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 9; SM-J701F Build\/PPR1.180610.011; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/97.0.4692.98 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/415.0.0.34.107;]",
+        "estimated_revenue": 0,
+        "country": {
+            "country_id": 104,
+            "country_code": "iq",
+            "country_name": "Iraq"
+        },
+        "s2s": [{
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "90bdff48-fc48-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxndqxnze2nzi",
+        "uuid": "b2e68d85-3cb8-b527-7c3d-ba329c38d617",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "37.236.239.33",
+        "type": "click",
+        "server_datetime": "2023-05-27 04:39:29",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Medshare Insurance",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; Redmi 8A Build\/QKQ1.191014.001; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/113.0.5672.131 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/416.0.0.35.85;]",
+        "estimated_revenue": 0.01,
+        "country": {
+            "country_id": 104,
+            "country_code": "iq",
+            "country_name": "Iraq"
+        },
+        "s2s": [{
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }, {
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }]
+    }, {
+        "visit_id": "2a7dcdf8-fc47-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxndqwnte4nzm",
+        "uuid": "0d773c7e-3671-a82c-1b95-fdf573d49a40",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "105.235.132.251",
+        "type": "click",
+        "server_datetime": "2023-05-27 04:29:00",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Invisalign Store Near Me",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 12; SM-M127G Build\/SP1A.210812.016; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/96.0.4664.104 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/369.0.0.18.103;]",
+        "estimated_revenue": 0.01,
+        "country": {
+            "country_id": 3,
+            "country_code": "dz",
+            "country_name": "Algeria"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "28427785-fc47-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxndqwndkxnjm",
+        "uuid": "0d773c7e-3671-a82c-1b95-fdf573d49a40",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "105.235.132.251",
+        "type": "click",
+        "server_datetime": "2023-05-27 04:28:52",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Invisalign Store Near Me",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 12; SM-M127G Build\/SP1A.210812.016; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/96.0.4664.104 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/369.0.0.18.103;]",
+        "estimated_revenue": 0.01,
+        "country": {
+            "country_id": 3,
+            "country_code": "dz",
+            "country_name": "Algeria"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }, {
+        "visit_id": "2a13d148-fc35-11ed-aefa-0e64caf08415",
+        "public_visit_id": "mtmxndi0nzq5nji",
+        "uuid": "765d4eb7-d41b-25fb-38bc-6eb493ce297c",
+        "domain_name": "tratamientos-dentales.online",
+        "ip_address": "205.137.50.221",
+        "type": "click",
+        "server_datetime": "2023-05-27 02:20:52",
+        "ref_adnetwork": "Facebook",
+        "ref_keyword": "Transforma tu sonrisa hoy mismo",
+        "ref_pubsite": "facebook",
+        "page_query": "Invisalign Store Near Me",
+        "subids": "",
+        "visits": 0,
+        "zeroclicks": 0,
+        "ctrs": 0,
+        "clicks": 1,
+        "page_referer": "https:\/\/www.google.com\/",
+        "user_agent": "Mozilla\/5.0 (iPhone; CPU iPhone OS 15_7_3 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Mobile\/15E148 Instagram 283.0.0.16.103 (iPhone8,1; iOS 15_7_3; fr_FR; fr-FR; scale=2.00; 750x1334; 474411477)",
+        "estimated_revenue": 0.01,
+        "country": {
+            "country_id": 62,
+            "country_code": "do",
+            "country_name": "Dominican Republic"
+        },
+        "s2s": [{
+            "s2s_id": 179,
+            "postback_url": "https:\/\/trc.taboola.com\/actions-handler\/log\/3\/s2s-action?click-id=&name=search"
+        }, {
+            "s2s_id": 178,
+            "postback_url": "https:\/\/tr.outbrain.com\/unifiedPixel?ob_click_id=&name=search"
+        }, {
+            "s2s_id": 186,
+            "postback_url": "https:\/\/a.mgid.com\/postback?c=&e=click"
+        }]
+    }],
+    "first_page_url": "https:\/\/api.bodis.com\/v2\/parking\/search?page=1",
+    "from": 1,
+    "next_page_url": null,
+    "path": "https:\/\/api.bodis.com\/v2\/parking\/search",
+    "per_page": 250,
+    "prev_page_url": null,
+    "to": 116
+}
